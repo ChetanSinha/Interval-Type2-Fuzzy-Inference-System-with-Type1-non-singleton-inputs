@@ -1,0 +1,1 @@
+# Interval-Type2-Fuzzy-Inference-System-with-Type1-non-singleton-inputs
