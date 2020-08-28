@@ -1,7 +1,5 @@
 # Interval-Type2-Fuzzy-Inference-System-with-Type1-non-singleton-inputs
 
-# Interval-Type2-Fuzzy-Inference-System-with-Type2-inputs
-
 ## Description
 This repository has Python Implementation of _Interval Type 2(IT2) Fuzzy Inference System_ with type-1 antecedents(inputs).
 
